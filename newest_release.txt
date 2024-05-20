@@ -1,1 +1,1 @@
-https://github.com/KRWCLASSIC/Time-Keeper-Archive/releases/download/1.10.2/timekeeper-0.10.2-win.zip
+https://github.com/KRWCLASSIC/Time-Keeper-Archive/releases/download/0.12.0/Timekeeper-0.12.0-win.zip
